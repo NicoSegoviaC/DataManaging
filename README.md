@@ -1,5 +1,5 @@
 # DataManaging
-Curso Data Managment
+
 Curso electivo diseñado para proporcionar a los estudiantes una comprensión sólida de las técnicas y herramientas necesarias para el manejo, análisis y visualización de datos con dos de los lenguajes de programación gratuitos más populares en ciencia hoy en día: R y Python. Los módulos están diseñados en algunos casos para automatizar o sistematizar procesos complejos, con el objetivo de optimizar, depurar, y minimizar el tiempo y errores al manejar bases de datos grandes. Los módulos más importantes serán abordados con detalle y se enfatizará además en la aplicación práctica de las distintas técnicas mediante ejemplo con datos o situaciones reales en conjunto con los estudiantes y sus intereses científicos personales. 
 Curso orientado a estudiantes de postgrado con conocimientos básicos en estadística y plataformas como R y Python. 
 
