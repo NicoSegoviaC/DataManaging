@@ -95,7 +95,7 @@ Y debería abrirse Jupyter en tu navegador predeterminado.
 
 ## Instalación de R y RStudio
 
-Recordar que RStudio es una interfaz gráfica para R, que permite un manejo lógico del REnvironment, pero este **no puede funcionar si no hay R instalado. por lo que es fundamental instalar ambos programas**. 
+Recordar que RStudio es una interfaz gráfica para R, que permite un manejo lógico del REnvironment, pero este **no puede funcionar si no hay R instalado por lo que es fundamental instalar ambos programas**. 
 
 ### Instalación en Windows
 1. Descargar e instalar R
