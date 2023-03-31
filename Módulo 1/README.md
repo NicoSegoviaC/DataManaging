@@ -13,7 +13,10 @@ En su concepción más general, es llevar la función de "búsquedas y reemplazo
 En general los comandos wildcards se representan por una backslash y una letra. Por ejemplo: \w
 \w es el más general, ya que engloba cualquier letra (a-z) y cualquier dígito (0-9).
 
-![Captura de Pantalla 2023-03-17 a la(s) 16 33 36](https://user-images.githubusercontent.com/10599260/226003200-fb37edbb-5009-443c-9fba-94b374a325ad.png)
+<div style="text-align:center;">
+  <img src="https://user-images.githubusercontent.com/10599260/226003200-fb37edbb-5009-443c-9fba-94b374a325ad.png" width="500" height="600">
+</div>
+
 
 
 ## Ejemplo 1
