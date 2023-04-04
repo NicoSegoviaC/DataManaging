@@ -113,7 +113,7 @@ Abre el archivo descargado y sigue las instrucciones del instalador.
 Abre RStudio y en la consola de R, escribe los siguientes comandos y presiona enter para instalar los paquetes dplyr y ggplot2:
 
 ```
-install.packages("ggplot")
+install.packages("ggplot2")
 install.packages("dplyr")
 ```
 Si te aparece una ventana para seleccionar un servidor de descarga, selecciona el servidor más cercano a tu ubicación.
@@ -121,7 +121,7 @@ Si te aparece una ventana para seleccionar un servidor de descarga, selecciona e
 Para comprobar que los paquetes fueron instalados correctamente, escribir los siguientes comandos
 
 ```
-library(ggplot)
+library(ggplot2)
 library(dplyr)
 ```
 
